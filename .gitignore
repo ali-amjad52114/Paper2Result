@@ -1,0 +1,12 @@
+.env
+.rocketride/
+reference/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
