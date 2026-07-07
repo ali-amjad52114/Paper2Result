@@ -136,7 +136,12 @@ Hello World from code!
 
 ---
 
-## Repository structure
+## Documentation
+
+- [Architecture](./docs/ARCHITECTURE.md) — system diagrams, graph model, sponsor mapping
+- [Execution Plan](./docs/EXECUTION_PLAN.md) — hackathon build plan and task board
+
+---
 
 ```
 .
