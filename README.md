@@ -1,10 +1,10 @@
-# PrismGraph AI 3.0
+# Paper2Result
 
-**Turn research papers into an executable knowledge graph.**
+**Turn research papers into executable evidence.**
 
-PrismGraph AI 3.0 is a research-to-code platform built for [HackwithBay 3.0](https://lu.ma) — *Thoughtful Agents for Productivity*. It goes beyond literature exploration: trace claims across papers, generate runnable implementations from selected methods, execute them in isolated sandboxes, and attach outputs back to the knowledge graph.
+Paper2Result (Paper-to-Results Graph) is a hackathon project for [HackwithBay 3.0](https://lu.ma) — *Thoughtful Agents for Productivity*. It goes beyond literature summaries: select a method from a paper, generate runnable code, execute it in a sandbox, and write the result back into a knowledge graph.
 
-> **2.0 was a graph of papers. 3.0 closes the loop: evidence → code → execution → validated graph.**
+> **Paper → Claim → Method → Code → Sandbox Run → Result → Graph Update**
 
 ---
 
@@ -16,7 +16,7 @@ Researchers spend hours reading papers in isolation. Summaries help, but they do
 - Can I **run** the method from Paper B without manually reimplementing it?
 - What happened when we tried to reproduce it — and where does that result live?
 
-PrismGraph AI connects literature, code, and experiment results in one graph.
+Paper2Result connects literature, code, and experiment results in one graph — so you see what ran, not just what was claimed.
 
 ---
 
